@@ -13,7 +13,7 @@ I am releasing this to github, and envision an evolution of this program utilizi
 the producer-consumer pattern (customers would be producers, tellers consumers), BlockingCollection,
 WPF for UI, etc.
 
-Some excellent resource related to multithreading and concurrent programming in .NET:
+Some excellent resources related to multithreading and concurrent programming in .NET:
 
 Threading in C#, by Joe Albahari - free ebook
 http://www.albahari.com/threading/
