@@ -3,7 +3,7 @@ bank-simulator
 
 Bank Simulator. Multithreaded .NET bank simulator written in C# with an object model containing 
 customers, tellers, transactions, and a synchronized bank balance (vault). It was written while
-I took advanced C# coursework at UCSD extension.
+I took C# II and III classes (circia 2007) at UCSD extension.
 
 This was implemented using System.Threading. For the past year, in two different work
 projects, I have used the Task Parallel Library (TPL) and asynchronous programming framework features
